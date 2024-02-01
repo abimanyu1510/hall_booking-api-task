@@ -5,7 +5,8 @@ let homePage = (req,res)=>{
    <h1 style="text-align:center;">Hall Booking API</h1>
     
         <h2 style="text-align:center;color:green">“Traveling is about the journey, but a good hotel is about the destination.”</h2>
-               
+        <a style="margin-left:45%"; href="https://www.booking.com/index.en-gb.html?aid=2336990;label=en-in-booking-desktop-mbA11rPWMJB8q9uMFoHDsQS652804038422:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-55978392763:lp9040217:li:dec:dm;ws=&gad_source=1&gclid=CjwKCAiA_OetBhAtEiwAPTeQZ4LIah8Oo_4eK1w4gN91ObyUIpMLqAAqx5hA-20AEFhVPqv2SPIq2BoCV0YQAvD_BwE" target="_blank">Book now</a>     
+            
     </div>
     </body>`)}
     catch(error){
